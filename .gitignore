@@ -1,5 +1,4 @@
 matches.csv
-deliveries.csv
-*.pkl
+deliveries.csv.zip
 .ipynb_checkpoints/
 __pycache__/
